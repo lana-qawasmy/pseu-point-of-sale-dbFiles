@@ -1,0 +1,25 @@
+[{
+  "_id": {
+    "$oid": "64a967bd8935d62ed8e9a6d8"
+  },
+  "code": "2023Discount",
+  "value": 5,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjb2RlIjoiMjAyM0Rpc2NvdW50IiwidmFsdWUiOjUsImRheXNJbnRlcnZhbCI6NywiaWF0IjoxNjg4ODIzNzQxLCJleHAiOjE2ODk0Mjg1NDF9.ShNQJdkbmrAJVAaKXz6hN_edUfFdBbIyYklA7GVS1MI",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a967d08935d62ed8e9a6da"
+  },
+  "code": "2323",
+  "value": 15,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2YWx1ZSI6MTUsImNvZGUiOiIyMzIzIiwiZGF5c0ludGVydmFsIjoxNSwiaWF0IjoxNjg4ODIzNzYwLCJleHAiOjE2OTAxMTk3NjB9.XgI0blruDGdQn-cRZw8aabewyzknamLt1Ayi26TJc0Y",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a967f98935d62ed8e9a6dc"
+  },
+  "code": "2023-summer",
+  "value": 25,
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ2YWx1ZSI6MjUsImNvZGUiOiIyMDIzLXN1bW1lciIsImRheXNJbnRlcnZhbCI6MzAsImlhdCI6MTY4ODgyMzgwMSwiZXhwIjoxNjkxNDE1ODAxfQ._zjl9wAxzCuRevG-x4Losg5RsM0t-E-iqpGLCBu-oGo",
+  "__v": 0
+}]

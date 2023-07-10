@@ -1,0 +1,1080 @@
+[{
+  "_id": {
+    "$oid": "64a9bf17eb9571f7309a650f"
+  },
+  "orderNumber": "1",
+  "orderNumberToSort": {
+    "$numberDecimal": "1"
+  },
+  "cashierName": "Admin",
+  "total": 39.9,
+  "time": "10:55:03 PM",
+  "date": {
+    "$date": "2023-07-08T19:55:03.532Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9a0efeb9571f7309a426e"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "64a9bf17eb9571f7309a6510"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a0b4eb9571f7309a4225"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf17eb9571f7309a6511"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a2b7eb9571f7309a43b8"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "64a9bf17eb9571f7309a6512"
+      }
+    }
+  ],
+  "discountCode": "2323",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9bf24eb9571f7309a6622"
+  },
+  "orderNumber": "2",
+  "orderNumberToSort": {
+    "$numberDecimal": "2"
+  },
+  "cashierName": "Admin",
+  "total": 70.4,
+  "time": "10:55:16 PM",
+  "date": {
+    "$date": "2023-07-08T19:55:16.040Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a96f488935d62ed8e9a6e7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf24eb9571f7309a6623"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9717f8935d62ed8e9a6ef"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf24eb9571f7309a6624"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9734e8935d62ed8e9a708"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf24eb9571f7309a6625"
+      }
+    }
+  ],
+  "discountCode": "",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9bf31eb9571f7309a6735"
+  },
+  "orderNumber": "3",
+  "orderNumberToSort": {
+    "$numberDecimal": "3"
+  },
+  "cashierName": "Admin",
+  "total": 148.5,
+  "time": "10:55:29 PM",
+  "date": {
+    "$date": "2023-07-08T19:55:29.105Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a979aa8935d62ed8e9a74c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf31eb9571f7309a6736"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a979178935d62ed8e9a733"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf31eb9571f7309a6737"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a977a98935d62ed8e9a71b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf31eb9571f7309a6738"
+      }
+    }
+  ],
+  "discountCode": "",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9bf3aeb9571f7309a67ae"
+  },
+  "orderNumber": "4",
+  "orderNumberToSort": {
+    "$numberDecimal": "4"
+  },
+  "cashierName": "Admin",
+  "total": 770,
+  "time": "10:55:38 PM",
+  "date": {
+    "$date": "2023-07-08T19:55:38.153Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a97c188935d62ed8e9a7e2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf3aeb9571f7309a67af"
+      }
+    }
+  ],
+  "discountCode": "",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9bf49eb9571f7309a6826"
+  },
+  "orderNumber": "5",
+  "orderNumberToSort": {
+    "$numberDecimal": "5"
+  },
+  "cashierName": "Admin",
+  "total": 680,
+  "time": "10:55:53 PM",
+  "date": {
+    "$date": "2023-07-08T19:55:53.137Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a97a628935d62ed8e9a783"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf49eb9571f7309a6827"
+      }
+    }
+  ],
+  "discountCode": "2023-summer",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9bf62eb9571f7309a689f"
+  },
+  "orderNumber": "6",
+  "orderNumberToSort": {
+    "$numberDecimal": "6"
+  },
+  "cashierName": "Admin",
+  "total": 202576.25,
+  "time": "10:56:18 PM",
+  "date": {
+    "$date": "2023-07-08T19:56:18.566Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a97d548935d62ed8e9a813"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bf62eb9571f7309a68a0"
+      }
+    }
+  ],
+  "discountCode": "2023-summer",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9bfcceb9571f7309a6af5"
+  },
+  "orderNumber": "7",
+  "orderNumberToSort": {
+    "$numberDecimal": "7"
+  },
+  "cashierName": "Lana Qawasmy",
+  "total": 265.1,
+  "time": "10:58:04 PM",
+  "date": {
+    "$date": "2023-07-08T19:58:04.200Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9813b8935d62ed8e9a8f3"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bfcceb9571f7309a6af6"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a97f828935d62ed8e9a89b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bfcceb9571f7309a6af7"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a99c22eb9571f7309a410b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bfcceb9571f7309a6af8"
+      }
+    }
+  ],
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9bff9eb9571f7309a6d3d"
+  },
+  "orderNumber": "8",
+  "orderNumberToSort": {
+    "$numberDecimal": "8"
+  },
+  "cashierName": "Lana Qawasmy",
+  "total": 182.4,
+  "time": "10:58:49 PM",
+  "date": {
+    "$date": "2023-07-08T19:58:49.640Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9a5ebeb9571f7309a45aa"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bff9eb9571f7309a6d3e"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a7a1eb9571f7309a47e8"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bff9eb9571f7309a6d3f"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a8c2eb9571f7309a490f"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bff9eb9571f7309a6d40"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a815eb9571f7309a4869"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bff9eb9571f7309a6d41"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9aa99eb9571f7309a4998"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bff9eb9571f7309a6d42"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9b3f0eb9571f7309a4ab6"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bff9eb9571f7309a6d43"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9b364eb9571f7309a4a25"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9bff9eb9571f7309a6d44"
+      }
+    }
+  ],
+  "discountCode": "2323",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c020eb9571f7309a7042"
+  },
+  "orderNumber": "9",
+  "orderNumberToSort": {
+    "$numberDecimal": "9"
+  },
+  "cashierName": "Lana Qawasmy",
+  "total": 125.4,
+  "time": "10:59:28 PM",
+  "date": {
+    "$date": "2023-07-08T19:59:28.992Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9a8c2eb9571f7309a490f"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "64a9c020eb9571f7309a7043"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a7a1eb9571f7309a47e8"
+      },
+      "quantity": 9,
+      "_id": {
+        "$oid": "64a9c020eb9571f7309a7044"
+      }
+    }
+  ],
+  "discountCode": "",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c039eb9571f7309a71ae"
+  },
+  "orderNumber": "10",
+  "orderNumberToSort": {
+    "$numberDecimal": "10"
+  },
+  "cashierName": "Lana Qawasmy",
+  "total": 53.9,
+  "time": "10:59:53 PM",
+  "date": {
+    "$date": "2023-07-08T19:59:53.369Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9717f8935d62ed8e9a6ef"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c039eb9571f7309a71af"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a96f488935d62ed8e9a6e7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c039eb9571f7309a71b0"
+      }
+    }
+  ],
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c049eb9571f7309a72f6"
+  },
+  "orderNumber": "11",
+  "orderNumberToSort": {
+    "$numberDecimal": "11"
+  },
+  "cashierName": "Lana Qawasmy",
+  "total": 88,
+  "time": "11:00:09 PM",
+  "date": {
+    "$date": "2023-07-08T20:00:09.760Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a979aa8935d62ed8e9a74c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c049eb9571f7309a72f7"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a979178935d62ed8e9a733"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c049eb9571f7309a72f8"
+      }
+    }
+  ],
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c057eb9571f7309a73bc"
+  },
+  "orderNumber": "12",
+  "orderNumberToSort": {
+    "$numberDecimal": "12"
+  },
+  "cashierName": "Lana Qawasmy",
+  "total": 855,
+  "time": "11:00:23 PM",
+  "date": {
+    "$date": "2023-07-08T20:00:23.990Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a97b3d8935d62ed8e9a7c0"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c057eb9571f7309a73bd"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a97a628935d62ed8e9a783"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c057eb9571f7309a73be"
+      }
+    }
+  ],
+  "discountCode": "2323",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c096eb9571f7309a7571"
+  },
+  "orderNumber": "13",
+  "orderNumberToSort": {
+    "$numberDecimal": "13"
+  },
+  "cashierName": " raghad salem  ",
+  "total": 156.2,
+  "time": "11:01:26 PM",
+  "date": {
+    "$date": "2023-07-08T20:01:26.221Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a97f828935d62ed8e9a89b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c096eb9571f7309a7572"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a050eb9571f7309a41df"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c096eb9571f7309a7573"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a449eb9571f7309a443d"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c096eb9571f7309a7574"
+      }
+    }
+  ],
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c0b3eb9571f7309a76ad"
+  },
+  "orderNumber": "14",
+  "orderNumberToSort": {
+    "$numberDecimal": "14"
+  },
+  "cashierName": " raghad salem  ",
+  "total": 218.5,
+  "time": "11:01:55 PM",
+  "date": {
+    "$date": "2023-07-08T20:01:55.621Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9aa99eb9571f7309a4998"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "64a9c0b3eb9571f7309a76ae"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9bc53eb9571f7309a5f2a"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c0b3eb9571f7309a76af"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9b364eb9571f7309a4a25"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c0b3eb9571f7309a76b0"
+      }
+    }
+  ],
+  "discountCode": "2323",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c0c9eb9571f7309a786b"
+  },
+  "orderNumber": "15",
+  "orderNumberToSort": {
+    "$numberDecimal": "15"
+  },
+  "cashierName": " raghad salem  ",
+  "total": 114.4,
+  "time": "11:02:17 PM",
+  "date": {
+    "$date": "2023-07-08T20:02:17.300Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a96f488935d62ed8e9a6e7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c0c9eb9571f7309a786c"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9734e8935d62ed8e9a708"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c0c9eb9571f7309a786d"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a979aa8935d62ed8e9a74c"
+      },
+      "quantity": 2,
+      "_id": {
+        "$oid": "64a9c0c9eb9571f7309a786e"
+      }
+    }
+  ],
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c0e4eb9571f7309a7980"
+  },
+  "orderNumber": "16",
+  "orderNumberToSort": {
+    "$numberDecimal": "16"
+  },
+  "cashierName": " raghad salem  ",
+  "total": 447785.95,
+  "time": "11:02:44 PM",
+  "date": {
+    "$date": "2023-07-08T20:02:44.231Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a97d548935d62ed8e9a813"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c0e4eb9571f7309a7981"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9813b8935d62ed8e9a8f3"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c0e4eb9571f7309a7982"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a97de88935d62ed8e9a84d"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c0e4eb9571f7309a7983"
+      }
+    }
+  ],
+  "discountCode": "2023-summer",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c103eb9571f7309a7b20"
+  },
+  "orderNumber": "17",
+  "orderNumberToSort": {
+    "$numberDecimal": "17"
+  },
+  "cashierName": " raghad salem  ",
+  "total": 80.3,
+  "time": "11:03:15 PM",
+  "date": {
+    "$date": "2023-07-08T20:03:15.131Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a99e1ceb9571f7309a415c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c103eb9571f7309a7b21"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a66eeb9571f7309a476d"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c103eb9571f7309a7b22"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a979aa8935d62ed8e9a74c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c103eb9571f7309a7b23"
+      }
+    }
+  ],
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c10eeb9571f7309a7c36"
+  },
+  "orderNumber": "18",
+  "orderNumberToSort": {
+    "$numberDecimal": "18"
+  },
+  "cashierName": " raghad salem  ",
+  "total": 17.6,
+  "time": "11:03:26 PM",
+  "date": {
+    "$date": "2023-07-08T20:03:26.832Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9a0b4eb9571f7309a4225"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "64a9c10eeb9571f7309a7c37"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a2b7eb9571f7309a43b8"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c10eeb9571f7309a7c38"
+      }
+    }
+  ],
+  "discountCode": "",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c13aeb9571f7309a7e18"
+  },
+  "orderNumber": "19",
+  "orderNumberToSort": {
+    "$numberDecimal": "19"
+  },
+  "cashierName": " Momin Arafa  ",
+  "total": 198,
+  "time": "11:04:10 PM",
+  "date": {
+    "$date": "2023-07-08T20:04:10.226Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9a66eeb9571f7309a476d"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c13aeb9571f7309a7e19"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a5ebeb9571f7309a45aa"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c13aeb9571f7309a7e1a"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9bc53eb9571f7309a5f2a"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c13aeb9571f7309a7e1b"
+      }
+    }
+  ],
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c144eb9571f7309a7f2b"
+  },
+  "orderNumber": "20",
+  "orderNumberToSort": {
+    "$numberDecimal": "20"
+  },
+  "cashierName": " Momin Arafa  ",
+  "total": 148.5,
+  "time": "11:04:20 PM",
+  "date": {
+    "$date": "2023-07-08T20:04:20.082Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a979aa8935d62ed8e9a74c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c144eb9571f7309a7f2c"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a979178935d62ed8e9a733"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c144eb9571f7309a7f2d"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a977a98935d62ed8e9a71b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c144eb9571f7309a7f2e"
+      }
+    }
+  ],
+  "discountCode": "",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c158eb9571f7309a808d"
+  },
+  "orderNumber": "21",
+  "orderNumberToSort": {
+    "$numberDecimal": "21"
+  },
+  "cashierName": " Momin Arafa  ",
+  "total": 208.05,
+  "time": "11:04:40 PM",
+  "date": {
+    "$date": "2023-07-08T20:04:40.814Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9717f8935d62ed8e9a6ef"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c158eb9571f7309a808e"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a96f488935d62ed8e9a6e7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c158eb9571f7309a808f"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a99c22eb9571f7309a410b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c158eb9571f7309a8090"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a97f828935d62ed8e9a89b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c158eb9571f7309a8091"
+      }
+    }
+  ],
+  "discountCode": "2323",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c189eb9571f7309a822d"
+  },
+  "orderNumber": "22",
+  "orderNumberToSort": {
+    "$numberDecimal": "22"
+  },
+  "cashierName": "Abdullah AL-Nuaimi",
+  "total": 12.1,
+  "time": "11:05:29 PM",
+  "date": {
+    "$date": "2023-07-08T20:05:29.338Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9a050eb9571f7309a41df"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c189eb9571f7309a822e"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a99e1ceb9571f7309a415c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c189eb9571f7309a822f"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a0efeb9571f7309a426e"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c189eb9571f7309a8230"
+      }
+    }
+  ],
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c195eb9571f7309a82f3"
+  },
+  "orderNumber": "23",
+  "orderNumberToSort": {
+    "$numberDecimal": "23"
+  },
+  "cashierName": "Abdullah AL-Nuaimi",
+  "total": 462,
+  "time": "11:05:41 PM",
+  "date": {
+    "$date": "2023-07-08T20:05:41.784Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a9bb67eb9571f7309a5e6b"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c195eb9571f7309a82f4"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9bc53eb9571f7309a5f2a"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c195eb9571f7309a82f5"
+      }
+    }
+  ],
+  "discountCode": "",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c19deb9571f7309a83b8"
+  },
+  "orderNumber": "24",
+  "orderNumberToSort": {
+    "$numberDecimal": "24"
+  },
+  "cashierName": "Abdullah AL-Nuaimi",
+  "total": 70.4,
+  "time": "11:05:49 PM",
+  "date": {
+    "$date": "2023-07-08T20:05:49.592Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a96f488935d62ed8e9a6e7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c19deb9571f7309a83b9"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a979178935d62ed8e9a733"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c19deb9571f7309a83ba"
+      }
+    }
+  ],
+  "discountCode": "",
+  "tax": 0.1,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9c1d2eb9571f7309a85f3"
+  },
+  "orderNumber": "25",
+  "orderNumberToSort": {
+    "$numberDecimal": "25"
+  },
+  "cashierName": "Lana Qawasmy",
+  "total": 719.15,
+  "time": "11:06:42 PM",
+  "date": {
+    "$date": "2023-07-08T20:06:42.840Z"
+  },
+  "items": [
+    {
+      "item": {
+        "$oid": "64a979aa8935d62ed8e9a74c"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c1d2eb9571f7309a85f4"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a96f488935d62ed8e9a6e7"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c1d2eb9571f7309a85f5"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a97c188935d62ed8e9a7e2"
+      },
+      "quantity": 1,
+      "_id": {
+        "$oid": "64a9c1d2eb9571f7309a85f6"
+      }
+    },
+    {
+      "item": {
+        "$oid": "64a9a0efeb9571f7309a426e"
+      },
+      "quantity": 3,
+      "_id": {
+        "$oid": "64a9c1d2eb9571f7309a85f7"
+      }
+    }
+  ],
+  "discountCode": "2323",
+  "tax": 0.1,
+  "__v": 0
+}]

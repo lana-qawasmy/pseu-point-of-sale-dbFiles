@@ -1,0 +1,234 @@
+[{
+  "_id": {
+    "$oid": "64a9b4e5eb9571f7309a4b4a"
+  },
+  "name": "Desserts",
+  "icon": "🍰",
+  "items": [
+    {
+      "$oid": "64a96f488935d62ed8e9a6e7"
+    },
+    {
+      "$oid": "64a9717f8935d62ed8e9a6ef"
+    },
+    {
+      "$oid": "64a9734e8935d62ed8e9a708"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9b557eb9571f7309a4d07"
+  },
+  "name": "Food ",
+  "icon": "🍔",
+  "items": [
+    {
+      "$oid": "64a977a98935d62ed8e9a71b"
+    },
+    {
+      "$oid": "64a979aa8935d62ed8e9a74c"
+    },
+    {
+      "$oid": "64a979178935d62ed8e9a733"
+    },
+    {
+      "$oid": "64a9a2b7eb9571f7309a43b8"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9b685eb9571f7309a511d"
+  },
+  "name": "Electronics",
+  "icon": "🔌",
+  "items": [
+    {
+      "$oid": "64a97a628935d62ed8e9a783"
+    },
+    {
+      "$oid": "64a97b3d8935d62ed8e9a7c0"
+    },
+    {
+      "$oid": "64a97c188935d62ed8e9a7e2"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9b6b6eb9571f7309a5226"
+  },
+  "name": "Cars",
+  "icon": "🚗",
+  "items": [
+    {
+      "$oid": "64a97d548935d62ed8e9a813"
+    },
+    {
+      "$oid": "64a97d9a8935d62ed8e9a83b"
+    },
+    {
+      "$oid": "64a97de88935d62ed8e9a84d"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9b788eb9571f7309a57a9"
+  },
+  "name": "Shoes",
+  "icon": "👟",
+  "items": [
+    {
+      "$oid": "64a97f828935d62ed8e9a89b"
+    },
+    {
+      "$oid": "64a9813b8935d62ed8e9a8f3"
+    },
+    {
+      "$oid": "64a99c22eb9571f7309a410b"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9b7cdeb9571f7309a58b2"
+  },
+  "name": "Drinks",
+  "icon": "🍹",
+  "items": [
+    {
+      "$oid": "64a99e1ceb9571f7309a415c"
+    },
+    {
+      "$oid": "64a9a050eb9571f7309a41df"
+    },
+    {
+      "$oid": "64a9a0b4eb9571f7309a4225"
+    },
+    {
+      "$oid": "64a9a0efeb9571f7309a426e"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9b823eb9571f7309a59e2"
+  },
+  "name": "Nails",
+  "icon": "💅",
+  "items": [
+    {
+      "$oid": "64a9a7a1eb9571f7309a47e8"
+    },
+    {
+      "$oid": "64a9a815eb9571f7309a4869"
+    },
+    {
+      "$oid": "64a9a8c2eb9571f7309a490f"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9b8e1eb9571f7309a5b81"
+  },
+  "name": "Makeup",
+  "icon": "💄",
+  "items": [
+    {
+      "$oid": "64a9aa99eb9571f7309a4998"
+    },
+    {
+      "$oid": "64a9b364eb9571f7309a4a25"
+    },
+    {
+      "$oid": "64a9b3f0eb9571f7309a4ab6"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9b93aeb9571f7309a5c8a"
+  },
+  "name": "Baby",
+  "icon": "👶",
+  "items": [
+    {
+      "$oid": "64a9a66eeb9571f7309a476d"
+    },
+    {
+      "$oid": "64a9a5ebeb9571f7309a45aa"
+    },
+    {
+      "$oid": "64a9a449eb9571f7309a443d"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64a9bc9beb9571f7309a5fed"
+  },
+  "name": " Glasses",
+  "icon": "👓",
+  "items": [
+    {
+      "$oid": "64a9bc53eb9571f7309a5f2a"
+    },
+    {
+      "$oid": "64a9bb67eb9571f7309a5e6b"
+    }
+  ],
+  "addedBy": [
+    {
+      "$oid": "64a962a98935d62ed8e9a6af"
+    }
+  ],
+  "__v": 0
+}]
